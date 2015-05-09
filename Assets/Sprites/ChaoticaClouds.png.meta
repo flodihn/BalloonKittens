@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 3c75a954f8ae7ef4797cb0234719ba08
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ChaoticaClouds_0
+    21300002: ChaoticaClouds_1
+    21300004: ChaoticaClouds_2
+    21300006: ChaoticaClouds_3
+    21300008: ChaoticaClouds_4
+    21300010: ChaoticaClouds_5
+    21300012: ChaoticaClouds_6
+    21300014: ChaoticaClouds_7
+    21300016: ChaoticaClouds_8
+    21300018: ChaoticaClouds_9
+    21300020: ChaoticaClouds_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ChaoticaClouds_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 195
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 175
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 88
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 85
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 145
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 114
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 88
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 12
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 24
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChaoticaClouds_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 38
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
